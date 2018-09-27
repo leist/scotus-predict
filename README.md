@@ -16,3 +16,5 @@ The data used in this paper is available from the [Supreme Court Database (SCDB)
 
 ## Version
 The latest version of this model was relesed in October 2015.
+
+Here are my changes.
